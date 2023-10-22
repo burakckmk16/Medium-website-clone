@@ -1,0 +1,55 @@
+.h-width{
+    font-size: 106px;
+}
+.yazı-width{
+    font-size: 24px;
+}
+.little-yazı{
+    font-size: 13px;
+}
+.c-dark{
+    color: #000000;
+}
+.c-transparan{
+    color: #F2F2F2;
+}
+.c-gray{
+    color: #6B6B6B;
+}
+.bc-gray{
+    color: #F2F2F2;
+}
+.op{
+    opacity: 0.5;
+}
+.t-aralık{
+    letter-spacing: -0.05em;;
+}
+.f-header{
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+.f-yazı{
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.line-height{
+    line-height: 24px;   
+}
+.b-radius{
+    border-radius: 20px;
+}
+.t-dec{
+    text-decoration: none;
+}
+.link-color{
+    color: green;
+}
+.link-color:hover{
+    color: #000000;
+}
+.position{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #FFC017;
+}
